@@ -2,12 +2,12 @@
   "name": "node-hello-world-minimal",
   "version": "1.0.0",
   "description": "Node.js minimal example",
-  "author": "Steve Martinelli <s.martinelli@gmail.com>",
+  "author": "Santrupti Golhar <santruptigolhar@gmail.com>",
   "main": "app.js",
   "license": "Apache-2.0",
   "repository": {
     "type" : "git",
-    "url" : "https://github.com/IBM/node-hello-world-minimal.git"
+    "url" : "https://github.com/SanTruptii/CC_Micro_Project.git"
   },
   "scripts": {
     "start": "node app.js"
